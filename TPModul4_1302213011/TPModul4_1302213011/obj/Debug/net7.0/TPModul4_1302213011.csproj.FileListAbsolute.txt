@@ -1,0 +1,15 @@
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\bin\Debug\net7.0\TPModul4_1302213011.exe
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\bin\Debug\net7.0\TPModul4_1302213011.deps.json
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\bin\Debug\net7.0\TPModul4_1302213011.runtimeconfig.json
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\bin\Debug\net7.0\TPModul4_1302213011.dll
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\bin\Debug\net7.0\TPModul4_1302213011.pdb
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.csproj.AssemblyReference.cache
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.AssemblyInfoInputs.cache
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.AssemblyInfo.cs
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.csproj.CoreCompileInputs.cache
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.dll
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\refint\TPModul4_1302213011.dll
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.pdb
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\TPModul4_1302213011.genruntimeconfig.cache
+C:\Users\alift\OneDrive\Documents\GitHub\TPModul4_1302213011\TPModul4_1302213011\TPModul4_1302213011\obj\Debug\net7.0\ref\TPModul4_1302213011.dll
