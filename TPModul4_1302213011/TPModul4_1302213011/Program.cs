@@ -14,10 +14,49 @@ public class KodePos
         return kodePos[(int)kel];
     }
 
+}
+
+public class DoorMachine
+{
+    enum State { Terkunci, Terbuka };
     public static void Main()
     {
         KodePos kodePos = new KodePos();
         int kode = KodePos.getKodePos(KodePos.Kelurahan.Mengger);
-        Console.WriteLine(kode);
+        Console.WriteLine("Kode Pos Mengger: " + kode + "\n");
+
+        State state = State.Terkunci;
+        string[] screen = { "Pintu Terkunci", "Pintu Tidak Terkunci" };
+
+        while(state != null)
+        {
+            Console.WriteLine(screen[(int)state]);
+            Console.Write("Command: ");
+            string command = Console.ReadLine();
+            switch (state)
+            {
+                case State.Terkunci:
+                    if(command == "KunciPintu")
+                    {
+                        state = State.Terkunci;
+                    }else if(command == "BukaPintu")
+                    {
+                        state = State.Terbuka;
+                    }
+                    break;
+
+                case State.Terbuka:
+                    if(command == "BukaPintu")
+                    {
+                        state = State.Terbuka;
+                    }else if(command == "KunciPintu")
+                    {
+                        state = State.Terkunci;
+                    }
+                    break;
+            }
+        }
+
     }
 }
+
